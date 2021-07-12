@@ -1,5 +1,5 @@
                                                      SIMPLE CALCULATOR  
-
+<img width="354" alt="Capture" src="https://user-images.githubusercontent.com/82461960/125231759-144a1480-e2fb-11eb-97a3-de04bc124172.PNG"> 
 INTRODUCTION
 
 A simple calculator is used for simple mathematics operations.
